@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Abhi4794 with 4+ years of experience in CAD+CAM+CAE+PLM Automation and Customization
-- 👀 I’m interested in ... CAD+CAM+CAE+PLM Automation and Customization
-- 🌱 I’m currently learning ... CADCAD+CAM+CAE+PLM Automation and Customization
-- 💞️ I’m looking to collaborate on ... CADCAD+CAM+CAE+PLM Automation and Customization or CAD Development Projects
+- 👀 I’m interested in ... Mechanical End-To-End Product Developer
+- 🌱 I’m currently learning ... PLM Automation and Customization
+- 💞️ I’m looking to collaborate on ... CAD+CAM+CAE+PLM Automation and Customization or End-To-End Product Development Projects
 - 📫 How to reach me ... gosaiabhishek06@gmail.com
-- 😄 Pronouns: ... CADCAD+CAM+CAE+PLM Developer
+- 😄 Pronouns: ... Mechanical End-To-End Product Developer
 - ⚡ Fun fact: ... Enjoy the challenge
   
 AutoCAD: Automation API's, VB.Net, C#, 2D Design
