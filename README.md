@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... CADCAD+CAM+CAE+PLM Automation and Customization or CAD Development Projects
 - 📫 How to reach me ... gosaiabhishek06@gmail.com
 - 😄 Pronouns: ... CADCAD+CAM+CAE+PLM Developer
-- ⚡ Fun fact: ... Enjoy the challenge 
+- ⚡ Fun fact: ... Enjoy the challenge
+  
 AutoCAD: Automation API's, VB.Net, C#, 2D Design
 CATIA V5: Automation & Customization API's, CAA (C++), VB.Net, VBA, C#
 NX (CAD): Automation API's, NXopen, C#
