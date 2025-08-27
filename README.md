@@ -12,7 +12,7 @@ NX (CAM): Automation API's, NXopen, C#
 SolidWorks: Automation API's, VB.Net, 3D Design
 Creo: Automation API's C++
 Ansys: Simulation, Python(Ansys)
-PLM: Aras Innovator, JavaScript, MSA SQL, REST API
+PLM: Aras Innovator, C#, JavaScript, MSA SQL, REST API
 Excel: Macros, VBA
 <!---
 Abhi4794/Abhi4794 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
